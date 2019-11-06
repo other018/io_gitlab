@@ -1,5 +1,5 @@
 # io_gitlab
-Zuzanna Z
+Zuzia Z
 06.11.2019
 Inzynieria
 Oprogramowania
